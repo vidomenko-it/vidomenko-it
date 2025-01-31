@@ -52,6 +52,10 @@ OPENCLASSROOMS - PARIS 4 Dates du plan de formation : du 29/08/23 au 28/05/24
  + Bonne communication, Capacité d’adaptation, Capacité d'analyse et de synthèse, Sens du service, Rigueur, Organisation.  
 ***Intérêts*** :  Tennis
 
+   -----------------------------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidomenko-it&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=contribs,prs&show_icons=true&bg_color=00000000)
+
 
 
 
