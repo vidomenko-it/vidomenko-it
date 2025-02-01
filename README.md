@@ -54,9 +54,9 @@ OPENCLASSROOMS - PARIS 4 Dates du plan de formation : du 29/08/23 au 28/05/24
 
    -------------------
 
-Construisons ensemble un environnement informationnel fiable et sécurisé !  
+## Construisons ensemble un environnement informationnel fiable et sécurisé !  
 
-Voir le début du [projet >](https://vidomenko-it.github.io/)
+**Voir le début du [projet >](https://vidomenko-it.github.io/)**
 
    -----------------------------
 
