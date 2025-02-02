@@ -16,7 +16,7 @@ Je possède une vaste expérience dans le domaine de l'organisation et de la mai
 
 Et je coopère également bien avec mes collègues pour mettre en œuvre et prendre en charge des solutions informatiques et bien échanger des expériences.
 
-## COMPÉTENCES IT 
+## COMPÉTENCES
   + Administration systèmes, réseaux, Dépannage, Gestion du câblage et des patchs;
   + Suivi Compétences générales
    +  Approvisionnement et installation des actifs,
