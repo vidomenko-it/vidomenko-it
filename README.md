@@ -8,7 +8,7 @@ ADMINISTRATEUR  Systèmes et réseaux
 Pendant plus de 20 ans, j'ai travaillé dans le domaine informatique.   
 
 Je possède une vaste expérience dans le domaine de l'organisation et de la maintenance des systèmes d'information du commerce :  
-  + support aux utilisateurs
+  +  support aux utilisateurs
   +  installation et maintenance des serveurs
   +  administration des réseaux
   +  installation et maintenance des systèmes et équipements
@@ -19,12 +19,15 @@ Et je coopère également bien avec mes collègues pour mettre en œuvre et pren
 ## COMPÉTENCES
   + Administration systèmes, réseaux, Dépannage, Gestion du câblage et des patchs;
   + Suivi Compétences générales
-   +  Approvisionnement et installation des actifs,
-   +  suivi dans la CMDB du client,
-   +  Gestion des fournisseurs de services tiers,
-   + du processus de gestion des changements,
-   + Gestion des incidents de niveau 2 et 3,
-   + Gestion de la capacité et production de rapports, Linux, FreeBSD, MacOS, Windows, Windows Server, Azure, Entra, Intune, Microsoft Office, Virtualisation: ProxMox, VMware, Hyper V, Ansible, Docker, GLPI, Nagios, Veeam.
+  + Approvisionnement et installation des actifs
+  + suivi dans la CMDB du client
+  + Gestion des fournisseurs de services tiers du processus de gestion des changements
+  + Gestion des incidents de niveau 2 et 3
+  + Gestion de la capacité et production de rapports
+  + Linux, FreeBSD, MacOS, Windows, Windows Server, Azure, Entra, Intune
+  + Virtualisation: ProxMox, VMware, Hyper V
+  + Ansible, Docker
+  + GLPI, Nagios, Veeam.
 ## FORMATIONS 
 +	**2024 - Technicien informatique Gérez un parc informatique sécurisé, déployez des postes de travail et apportez un support aux utilisateurs.**  
 (https://static.oc-static.com/syllabus/395-technicien-informatique-fr-fr-standard.pdf)  
